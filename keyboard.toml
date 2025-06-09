@@ -1,4 +1,4 @@
-# Documentation: https://haobogu.github.io/rmk/keyboard_configuration.html
+C# Documentation: https://haobogu.github.io/rmk/keyboard_configuration.html
 [keyboard]
 name = "RMK Keyboard"
 product_name = "RMK Keyboard"
@@ -20,11 +20,11 @@ cols = 6
 layers = 1
 keymap = [
     [
-        ["", "", "", "", "", ""],
-        ["", "", "", "", "", ""],
-        ["", "", "", "", "", ""],
-        ["", "", "", "", "", ""],
-        ["", "", "", "", "", ""]
+        ["Esc", "1", "2", "3", "4", "5"],
+        ["Tab", "q", "w", "e", "r", "t"],
+        ["CapsLock", "a", "s", "d", "f", "g"],
+        ["LShift", "z", "x", "c", "v", "b"],
+        ["LCtrl", "LGui", "LAlt", "Space", "Space", "Space"]
     ]
 ]
 
